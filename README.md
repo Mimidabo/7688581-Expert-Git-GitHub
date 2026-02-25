@@ -10,8 +10,10 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
+<<<<<<< HEAD
 1. Un navigateur WEB
 2. Un sereveur WAMP
+3. Un espace de stockage
 
 
 ### Installation
